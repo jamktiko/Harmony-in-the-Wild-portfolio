@@ -1,0 +1,16 @@
+[
+  {
+    "version" : 1
+  },
+  {
+    "action" : {
+      "type" : "url",
+      "url" : "https://github.com/jamktiko/${repo:name}/tree/${ref:short}"
+    },
+    "name" : "Open in GitHub",
+    "refTargets" : [
+      "remotebranch"
+    ],
+    "target" : "ref"
+  }
+]

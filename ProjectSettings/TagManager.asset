@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Moveable
+  - FxTemporaire
+  - Ground
+  - QuestCanvas
+  - Manager
+  - Trigger
+  - NPC
+  - Grabbed
+  - Canvas
+  - Rock
+  - lb_groundTarget
+  - lb_perchTarget
+  - lb_bird
+  - UI_activeQuestMenu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Moveable
+  - Climbable
+  - Diveable
+  - Freezables
+  - Player
+  - LaunchPad
+  - Ground2
+  - CameraDisplay
+  - Trigger
+  - DungeonKillzone
+  - Collectable
+  - SnowTerrain
+  - Bloom
+  - NPC
+  - Rock
+  - Snow
+  - ToL
+  - Player Camera
+  - Clouds
+  - 
+  - Roof
+  - LoadingScreen
+  - 
+  - In-game UI
+  - 
+  - World Map UI
+  m_SortingLayers:
+  - name: In-Game UI
+    uniqueID: 3002120869
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1687875497
+    locked: 0
+  - name: World Map UI
+    uniqueID: 2389931125
+    locked: 0
