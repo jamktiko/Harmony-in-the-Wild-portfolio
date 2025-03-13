@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f48366619bb71164bbb2b14dca2ad09c, type: 3}
+  m_Name: Whale Diet
+  m_EditorClassIdentifier: 
+  _id: Whale Diet
+  _numericID: 1
+  _displayName: Whale Diet
+  _description: Help the whale get some food
+  _mainQuest: 0
+  _defaultPos: {x: 2014, y: 22, z: 724}
+  _levelRequirement: 0
+  _questPrerequisites: []
+  _questStepPrefabs:
+  - {fileID: 2026810933704207100, guid: d4d6a5039ced0114785ce857236e5cc1, type: 3}
+  - {fileID: 323391486973716021, guid: 1de43b025e1b0dc4082f2f26e4eb5c36, type: 3}
+  - {fileID: 323391486973716021, guid: 04ab4a65038f6cc43a46581f1e6a6da4, type: 3}
+  _experienceReward: 0
+  _abilityReward: 2

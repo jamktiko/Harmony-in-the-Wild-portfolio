@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7065064767508901168
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5203883147986507979}
+  - component: {fileID: 6582106308550211558}
+  m_Layer: 0
+  m_Name: QuestManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5203883147986507979
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7065064767508901168}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6582106308550211558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7065064767508901168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ece86126e2408743b5058085234e0e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerManager: {fileID: 0}
+  AbilityCycle: {fileID: 0}
+  mapQuestMarkersBW:
+  - {fileID: 21300000, guid: 3988268d0ad8dce49a557689cbb64c14, type: 3}
+  - {fileID: 21300000, guid: 3de88762b6ad1f84ababd204210a2f3a, type: 3}
+  - {fileID: 21300000, guid: 310105527a5c91f4fbf9591a872acd8b, type: 3}
+  - {fileID: 21300000, guid: ae36740dd629c7140a97a9f92af0f432, type: 3}
+  - {fileID: 21300000, guid: bfad149156ef5414882a14439c4f49c9, type: 3}
+  - {fileID: 21300000, guid: cd9a27f4a1f539d448ca8472171dbb67, type: 3}
+  - {fileID: 21300000, guid: e2f011cdfac7c2d47a4999eff91f04c5, type: 3}
+  - {fileID: 21300000, guid: f768d29f6997fa845abf2e48053127e9, type: 3}
+  - {fileID: 21300000, guid: 7c2cf2ee42f206a48a19f4858ca4e44e, type: 3}
+  mapQuestMarkersColour:
+  - {fileID: 21300000, guid: 49c873334b78fb844a0af626c04e909b, type: 3}
+  - {fileID: 21300000, guid: a54f818f69512524aad4c4088e4c4e78, type: 3}
+  - {fileID: 21300000, guid: 7adb355a85a1ecf4f9a7879e16211d03, type: 3}
+  - {fileID: 21300000, guid: d3675de3c3007ed49a2f0b34d7e7c731, type: 3}
+  - {fileID: 21300000, guid: f16a6d0df63ab7141bbb13de9158c628, type: 3}
+  - {fileID: 21300000, guid: 89154be6fe53aa040bc3df358869e467, type: 3}
+  - {fileID: 21300000, guid: 3ddc031744d7f0f43bd306ff8fd1b9ff, type: 3}
+  - {fileID: 21300000, guid: 257532b397433fe41a62f061a0b0ef02, type: 3}
+  - {fileID: 21300000, guid: 0b8294869993d27429775873e052c9ad, type: 3}

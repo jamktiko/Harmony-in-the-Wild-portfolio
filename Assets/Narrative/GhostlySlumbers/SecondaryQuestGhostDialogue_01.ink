@@ -1,0 +1,1 @@
+We already talked. Shouldn't you be looking for someone else? #speaker:Ghost

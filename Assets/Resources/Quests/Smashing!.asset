@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f48366619bb71164bbb2b14dca2ad09c, type: 3}
+  m_Name: Smashing!
+  m_EditorClassIdentifier: 
+  _id: Smashing!
+  _numericID: 2
+  _displayName: Smashing!
+  _description: Help the Boar
+  _mainQuest: 0
+  _defaultPos: {x: 1034.4182, y: 122.08387, z: 453.22552}
+  _levelRequirement: 0
+  _questPrerequisites: []
+  _questStepPrefabs:
+  - {fileID: 3135676906032237431, guid: cd2bd57e965d1624786299996ece309e, type: 3}
+  - {fileID: 8042834608868410150, guid: 43264f700ebd13d48a55b0636fca8709, type: 3}
+  - {fileID: 7544451660092192377, guid: d1d76a9853b6ceb45a41169de60a621e, type: 3}
+  _experienceReward: 0
+  _abilityReward: 5
